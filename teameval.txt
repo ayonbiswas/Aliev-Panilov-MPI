@@ -1,0 +1,62 @@
+                    CSE 260, Parallel Computation
+                            (FALL 2020)
+           Department of Computer Science and Engineering 	
+                 University of California, San Diego 	
+
+
+               Team Self Evaluation Form, Assignment #3
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+If you worked alone leave column B blank
+
+(1) List the names of your team members:
+
+A: Ayon Biswas
+
+ 
+B: Robert Herndon
+
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B
+meetings 	  	  	 15		15
+coding 	  	  	 	30		30
+writeup 	  	  	 10		10
+planning (alone) 	  	  5	 	5
+total (including meetings) 	  60	  	60
+
+
+(3) Discuss the following.
+(a) If you worked in a team, what were the major responsibilities
+    of each team member?
+	A) I setup the process.cpp distribution of submtrices and the 2d version of solve.py. Additionally, I ran several test using Bang and on Comet. I contributed to report writing.
+	
+	B) I setup SSE code and a primitive for communication model. Additionally, I ran several test using Bang and fewer on Comet.
+
+(b) Did you complete the assignment?
+	Yes
+(c) What were your major strengths and weaknesses in doing this
+    assignment (individually or in a team)?
+    If in a team, also discuss how your team worked together.
+	A) We work at the same time and during the night. So we both do the work synchrounously.
+
+	B) I think we work well as a team, each playing to our own strengths. I think I could have been more helpful with assisting the coding primatives for the helper code.
+
+(d) What  lessons did you learn from these events.
+	MPI Communication and Interfacing
+	HPC Methods
+
+(e) If in a team, whether and how you plan to change the way
+    your work together .
+	A) Plan ahead.
+
+	B) Other than the time contraint, I really enjoyed this team.
+(f) Anything else that comes to mind.
+	A)NA
+	
+	B) N/A
+
