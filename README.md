@@ -6,12 +6,14 @@ Simulations play an important role in science, medicine, and engineering. In thi
 
 <img src="MPI.png" width="500">
 
-<img src="performance.png" width="700">
-
 Code organization
 =================
 * solve.cpp - implements Aliev-Panfilov Cardiac over MPI. use makefile to compile
 * helper.cpp - setups initial conditons and distrbutes the problems to multiple cores
+
+Results
+=================
+<img src="performance.png" width="700">
 
 Acknowledgements
 ================
